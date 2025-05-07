@@ -1,0 +1,9 @@
+.vs/
+*.ipch
+*.obj
+*.pdb
+*.exe
+*.vcxproj.*
+*.user
+*.suo
+*.cache
